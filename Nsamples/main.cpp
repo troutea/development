@@ -34,7 +34,7 @@ int main()
   {
 
     // Then calculate and write back to the file the column for phase and amplitude.
-    // Here is enough to call:
+    // Herex is enough to call:
     Samples.WriteFile();
     // Internally in WriteFile() function, first you calculate the phase and the amplitude and then you write back to the file.
     // That's why I put CalculateAmplitude() and CalculatePhase as private members of Nsamples.
