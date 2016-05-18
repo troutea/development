@@ -3,7 +3,7 @@
 #include <iomanip>
 
 using namespace::std;
-
+/*test*/
 
 bool Nsamples::LoadFile()
 {
