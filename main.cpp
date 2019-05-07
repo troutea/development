@@ -22,7 +22,7 @@ Inline image 1
 #include "Nsamples.h"
 
 using namespace std;
-
+//
 int main()
 {
 
