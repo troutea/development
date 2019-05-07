@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1552337688 source:c:\local\geek4geeks\copyconstructor\g4g_copyconstructor\main.cpp
+	<iostream>
+	"point.h"
+
+1552337407 source:c:\local\geek4geeks\copyconstructor\g4g_copyconstructor\point.cpp
+	"point.h"
+
+1552337370 c:\local\geek4geeks\copyconstructor\g4g_copyconstructor\point.h
+
