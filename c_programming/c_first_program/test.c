@@ -14,5 +14,7 @@ int main() {
     bool isMale = (myGender==anotherGender);
 
      printf("%d", myGender);
+
+     printf("testing the commit");
     
 }
