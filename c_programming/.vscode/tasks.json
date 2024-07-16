@@ -4,12 +4,12 @@
 		{
 			"type": "cppbuild",
 			"label": "C/C++: g++.exe build active file",
-			"command": "C:/Local/MinGW/bin/g++.exe",
+			"command": "C:/Local/MinGW/bin/gcc.exe",
 			"args": [
 				"-fdiagnostics-color=always",
 				"-g",
 				"-Wall",
-				"-std=c++17",
+				"-std=",
 				"${fileDirname}\\*.c",
 				"-o",
 				"${fileDirname}\\${fileBasenameNoExtension}.exe"
@@ -24,7 +24,7 @@
 				"kind": "build",
 				"isDefault": true
 			},
-			"detail": "compiler: C:/Local/MinGW/bin/g++.exe"
+			"detail": "compiler: C:/Local/MinGW/bin/gcc.exe"
 		}
 	]
 }
